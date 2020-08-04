@@ -2,8 +2,8 @@
 layout: default
 ---
 
-![linkdn](/assets/img/linkdnlogo.png) - https://www.linkedin.com/in/rahul-ranjan-68896026/
+![linkdn](/assets/img/linkdnlogo.png) - <a href="{{ https://www.linkedin.com/in/rahul-ranjan-68896026/}}">Work</a>
 
-![facebook](/assets/img/facebooklogo.png) - https://www.facebook.com/rahulranjanphotography
+![facebook](/assets/img/facebooklogo.png) - <a href="{{ https://www.facebook.com/rahulranjanphotography }}">Photography</a>
 
-![instagram](/assets/img/instagramlogo.png) - https://www.instagram.com/rahulranjanphotography/
+![instagram](/assets/img/instagramlogo.png) - <a href="{{ https://www.instagram.com/rahulranjanphotography/ }}">Photography</a>
