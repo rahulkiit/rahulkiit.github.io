@@ -6,4 +6,4 @@ layout: default
 
 [![facebook](/assets/img/facebooklogo.png)](https://www.facebook.com/rahulranjanphotography)
 
-[![instagram](/assets/img/instagramlogo.png)(https://www.instagram.com/rahulranjanphotography/)
+[![instagram](/assets/img/instagramlogo.png)](https://www.instagram.com/rahulranjanphotography/)
